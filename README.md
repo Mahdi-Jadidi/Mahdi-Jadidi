@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahdi Jadidi</h1>
-- 🔭 I’m currently working on **n8n Automations**
+- 🔭 I’m currently working on **n8n Automations & Data Engineering**
 
 - 🌱 I’m currently learning **ml**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mahdi-Jadidi/personal-projects](https://github.com/Mahdi-Jadidi/personal-projects)
+- 👨‍💻 All of my projects are available at [https://github.com/Mahdi-Jadidi/personal-projects](https://github.com/Mahdi-Jadidi)
 
 - 📫 How to reach me **mahdi.m.jadidi@gmail.com**
 
