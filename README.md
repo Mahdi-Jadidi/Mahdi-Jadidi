@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mahdi.m.jadidi@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Mahdi-Jadidi/Mahdi-Jadidi/blob/main/mahdi-jadidi_cv.pdf](https://github.com/Mahdi-Jadidi/Mahdi-Jadidi/blob/main/mahdi-jadidi_cv.pdf)
+- 📄 Know about my experiences [https://github.com/Mahdi-Jadidi/Mahdi-Jadidi/blob/main/mahdi-jadidi_cv.pdf](https://github.com/Mahdi-Jadidi/Mahdi-Jadidi/blob/main/Mahdi_Jadidi_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
