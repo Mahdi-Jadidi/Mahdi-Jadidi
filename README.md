@@ -1,19 +1,13 @@
 <div align="center">
-
-# Mahdi Jadidi
-
-**ML Engineer · Building production-ready machine learning systems**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-m-jadidi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mahdi.m.jadidi@gmail.com)
-[![CV](https://img.shields.io/badge/CV-Download-2E7D32?style=flat&logo=googledrive&logoColor=white)](https://github.com/Mahdi-Jadidi/Mahdi-Jadidi/blob/main/Mahdi_Jadidi_CV.pdf)
-![Location](https://img.shields.io/badge/📍-Tehran,_Iran-6B6B6B?style=flat)
-
+  <img src="header.svg" alt="Mahdi Jadidi — ML Engineer" width="100%"/>
 </div>
 
----
+<div align="center">
 
-I design ML pipelines that work — with **leakage-safe evaluation**, **time-aware validation**, and models that generalize beyond the training set. My projects span fraud detection, learning-to-rank, knowledge tracing, and computer vision. I treat negative results as findings, not failures.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-m-jadidi)
+[![CV](https://img.shields.io/badge/CV-Download-2E7D32?style=flat&logo=googledrive&logoColor=white)](https://github.com/Mahdi-Jadidi/Mahdi-Jadidi/blob/main/Mahdi_Jadidi_CV.pdf)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mahdi.m.jadidi@gmail.com)
+</div>
 
 ---
 
